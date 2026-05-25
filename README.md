@@ -1,3 +1,7 @@
-
+<div align="center">
 <img width="150" height="31" alt="marshmallows" src="https://github.com/user-attachments/assets/624c5cdd-1efd-43c4-95e6-69b01fc03794" />
-<img width="560" height="6" alt="stripe2" src="https://github.com/user-attachments/assets/f42a9c4f-d131-4d15-b815-912196488e3a" />
+
+# Welcome to the fishtank system!
+
+<img width="374" height="211" alt="aquário" src="https://github.com/user-attachments/assets/863e1545-eeb5-474c-bb14-0b2de42cc8d0" />
+
