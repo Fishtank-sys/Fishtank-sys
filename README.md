@@ -1,17 +1,17 @@
 <div align="center">
 
-
-<img width="150" height="31" alt="marshmallows" src="https://github.com/user-attachments/assets/a0fd4a07-72c1-4a7c-978c-14fb55f79375" />
-
+<img width="286" height="37" alt="pokemon4" src="https://github.com/user-attachments/assets/25061047-c7c0-4a68-bf0d-dcb00e186f7f" />
 
 
 
 
-# Welcome to the fishtank system!
+
+# Welcome to the Riverwater system!
 
 
 
-<img width="374" height="211" alt="aquário" src="https://github.com/user-attachments/assets/863e1545-eeb5-474c-bb14-0b2de42cc8d0" />
+<img width="2560" height="1707" alt="f8619726-cc08-41f5-8279-cc015e3cc4e9" src="https://github.com/user-attachments/assets/11b1d5bc-60f6-42fa-aee6-76e114232c83" />
+
 
 
   <details>
@@ -29,7 +29,7 @@ i decided to make this github page so people know about us!
 
  
 
-<img width="468" height="54" alt="cat6" src="https://github.com/user-attachments/assets/fccc27d4-51ac-47c4-ba24-ed6c4db79ca2" />
+<img width="560" height="6" alt="stripe2" src="https://github.com/user-attachments/assets/7df8e023-88c2-4d35-8ca6-3da539213804" />
 
 
 
